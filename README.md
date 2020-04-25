@@ -18,5 +18,8 @@ In this project, I will analyze a business problem in the mail-order catalog bus
 ## [Creating Analytical Dataset for Linear Regression](https://github.com/gmalekar/Creating-Analytical-Dataset-LinearRegression)
 This project is the first part of a two-part series. In the first part, you will blend and format data and deal with outliers. For the second part, you will use your cleaned up dataset to create another linear regression model.
 
+## [Predicting Loan Default](https://github.com/gmalekar/Predicting-Loan-Default)
+Designed an efficient solution to classify new customers on whether they can be approved for a loan or not. Used a series of classification models to figure out the best model and provide a list of creditworthy customers to your manager.
+
 ## [Tic-Tac-Toe Game In Python](https://github.com/gmalekar/Tic-Tac-Toe-InPython)
 Developed Tic-Tac-Toe game in python
