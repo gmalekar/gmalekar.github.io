@@ -12,6 +12,9 @@ In this project we will be analyzing stock data related to a few car companies, 
 This mini-project is meant to mainly deal with learning the libraries that we use for visulazation and data analysis.
 The main objective of this notebook is to hone your skills with matplotlib, pandas, and numpy.
 
+## [A/B Test- New Menu Launch](https://github.com/gmalekar/ABTest-NewMenuLaunch)
+As a business analyst for Round Roasters, a coffee restaurant in the United States of America, your job is to analyze the A/B test and write up a recommendation to whether the Round Roasters chain should launch this new menu. The executive team conducted a market test with a new menu and needs to figure whether the new menu can drive enough sales to offset the cost of marketing the new menu.
+
 ## [Predicting Catalog Demand](https://github.com/gmalekar/PredictingCatalogDemand)
 In this project, I will analyze a business problem in the mail-order catalog business. I have to predict how much money the company can expect to earn from sending out a catalog to new customers.   This task will involve building the predictive model and applying the results to provide a recommendation to management. 
 
