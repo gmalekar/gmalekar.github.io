@@ -6,7 +6,11 @@ Business Intelligence Analyst with six years of experience in reporting and big 
 
 In previous roles improved revenue by 24.48% by introducing new products and price recommendations based on the robust analysis. Increased active market makers by 317 % by implementing an incentive scheme and customer analytics. Conducted detailed analysis to look for fraudulent trading activity and debarred 50 trading members using data mining and association rule learning. 
 
-# My Portfolio
+# Project Portfolio
+
+## [Predicting Clusters & Forecasting Revenue for New Stores](https://github.com/gmalekar/Combining-Predictive-Techniques)
+The company currently has 85 grocery stores and is planning to open 10 new stores at the beginning of the year. Currently, all stores use the same store format for selling their products. Up until now, the company has treated all stores similarly, shipping the same amount of product to each store. This is beginning to cause problems as stores are suffering from product surpluses in some product categories and shortages in others. You've been asked to provide analytical support to make decisions about store formats and inventory planning.
+
 ## [Stock Market Analysis](https://github.com/gmalekar/Data-Analysis "Data Analysis repository")
 In this project we will be analyzing stock data related to a few car companies, from Jan 1 2012 to Jan 1 2017.
 This mini-project is meant to mainly deal with learning the libraries that we use for visulazation and data analysis.
