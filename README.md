@@ -12,5 +12,8 @@ In this project we will be analyzing stock data related to a few car companies, 
 This mini-project is meant to mainly deal with learning the libraries that we use for visulazation and data analysis.
 The main objective of this notebook is to hone your skills with matplotlib, pandas, and numpy.
 
+## [Predicting Catalog Demand](https://github.com/gmalekar/PredictingCatalogDemand)
+In this project, I will analyze a business problem in the mail-order catalog business. I have to predict how much money the company can expect to earn from sending out a catalog to new customers.   This task will involve building the predictive model and applying the results to provide a recommendation to management. 
+
 ## [Tic-Tac-Toe Game In Python](https://github.com/gmalekar/Tic-Tac-Toe-InPython)
 Developed Tic-Tac-Toe game in python
