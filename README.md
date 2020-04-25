@@ -15,7 +15,7 @@ The main objective of this notebook is to hone your skills with matplotlib, pand
 ## [Predicting Catalog Demand](https://github.com/gmalekar/PredictingCatalogDemand)
 In this project, I will analyze a business problem in the mail-order catalog business. I have to predict how much money the company can expect to earn from sending out a catalog to new customers.   This task will involve building the predictive model and applying the results to provide a recommendation to management. 
 
-##[Creating Analytical Dataset for Linear Regression](https://github.com/gmalekar/Creating-Analytical-Dataset-LinearRegression)
+## [Creating Analytical Dataset for Linear Regression](https://github.com/gmalekar/Creating-Analytical-Dataset-LinearRegression)
 This project is the first part of a two-part series. In the first part, you will blend and format data and deal with outliers. For the second part, you will use your cleaned up dataset to create another linear regression model.
 
 ## [Tic-Tac-Toe Game In Python](https://github.com/gmalekar/Tic-Tac-Toe-InPython)
