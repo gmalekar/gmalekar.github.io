@@ -4,10 +4,10 @@ Girish Malekar
 
 Business Intelligence Analyst with six years of experience in reporting and big data analysis. Looking to leverage advance analytics and problem-solving skills to improve company's business operations and strategic initiatives.
 
-In previous roles improved revenue by 24.48% year over year by introducing new products and price recommendations based on the robust analysis. Increased active market makers by 317 % year over year by implementing an incentive scheme and customer analytics. Conducted detailed analysis to look for fraudulent trading activity and debarred 50 trading members using data mining and association rule learning. 
+In previous roles improved rep productivity by ~25%, signing 50,000+ merchants while reducing the net cost per incremental order by ~23%, increased revenue by 24.48% year over year by introducing new products and price recommendations based on the robust analysis. Increased active market makers by 317 % year over year by implementing an incentive scheme and customer analytics. Conducted detailed analysis to look for fraudulent trading activity and debarred 50 trading members using data mining and association rule learning. 
 
 # EXPERIENCE
-
+Sr. Analyst, Finance, Grubhub, Chicago, IL – JUN 2021- Present
 BUSINESS INTELLIGENE ANALYST, LAZ PARKING, CHICAGO, IL - JUN 2018 - PRESENT
 ASSITANT MANAGER, BOMBAY STOCK EXCHANGE LTD, MUMBAI, MH – APR 2013 – JUN 2016
 
